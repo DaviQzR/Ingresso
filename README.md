@@ -2,6 +2,10 @@
 
 Bem-vindo ao e-Ticket! Este projeto web simula um sistema de compra de ingressos, oferecendo diferentes tipos de ingressos e mantendo o controle das quantidades disponíveis.
 
+## Link de Acesso
+
+https://ingresso-seven.vercel.app
+
 ## Funcionalidades Principais
 
 - **Escolha do Tipo de Ingresso:** Selecione entre Cadeira Inferior, Cadeira Superior ou Pista.
